@@ -1,3 +1,10 @@
+/* 
+remove header class
+remove li and ul 
+change all footers
+
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
