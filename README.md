@@ -14,4 +14,3 @@ The Horiseon Solution Services, INC. website needed to comply with SEO guideline
 This is the final refactored website.
 
 ![alt text](/assets/images/refactored_website_screenshot.png)
- 
